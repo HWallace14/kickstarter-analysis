@@ -15,7 +15,8 @@ We also used Outcomes for the Values field, which gave us the count of each valu
 
 After all was said and done we created a line chart with markers to notate the months from the pivot table that we had crafted and saved that chart for future examination. 
 
-Theater_Outcomes_vs_Launch.png
+<img width="307" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/105998378/172455280-501883eb-845c-48e9-9ede-9de0befee69a.png">
+
 ### Analysis of Outcomes Based on Goals
 To find outcomes based on goals we had to do a little paring down of the data into more easily digestible bits. 
 
@@ -23,7 +24,8 @@ First we gathered the number of successful, failed and canceled projects by goal
 
 We then summed the different outcomes for each goal range to get a total number of kickstarters in each range. This allowed us to divide the number collected by our `=COUNTIFS()` with the total to get a percentage of each type of outcome. Using just the percentages and the goals we created a line chart that represents the outcomes in each range by percentage of the whole.
 
-Outcomes_vs_Goals.png
+<img width="573" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/105998378/172455463-af7b0294-66af-4311-b729-dae9cbb1cc8b.png">
+
 ### Challenges and Difficulties Encountered
 In the "Outcomes Based on Goals" section of the unit I found that Excel is very picky when it comes to particular formulas. Instead of putting ">=" in my COUNTIF formulas I typed "=>" which, to anyone speaking the phrase, would mean the same thing. Excel, however, did not recognize my particular formula and so returned all of my equations with the value 0. After staring at the formula for a minute and realizing that it wasn't right I switched the two values and started getting results that were not 0. 
 ## Results
