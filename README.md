@@ -16,7 +16,7 @@ Looking at the graph below we can discern that the best time to launch a Kicksta
 
 #### Results
 
-Luckily for Louise this chart leaves little room for ambiguity and so we have a very clear time period for her to start her Kickstarter if she wants it to be a success.
+Luckily for Louise this chart leaves little room for ambiguity and so we have a very clear time period for her to start her Kickstarter if she wants it to be a success. I would recommend starting any time from May-July, but specifically May. 
 
 <img width="311" alt="Outcomes Based On Launch Date Chart" src="https://user-images.githubusercontent.com/105998378/172029300-8859b515-e426-4147-9004-932575c68bdc.png">
 
