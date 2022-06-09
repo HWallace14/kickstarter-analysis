@@ -14,7 +14,7 @@ The purpose of this project is to help our up and coming playwright, Louise, dis
 
 Looking at the graph below we can discern that the best time to launch a Kickstarter for a play would be May through July as they have the highest rates of success. We can also tell that the worst times to launch a Kickstarter for a play would be November and December.
 
-#### Results
+__Results__
 
 Luckily for Louise this chart leaves little room for ambiguity and so we have a very clear time period for her to start her Kickstarter if she wants it to be a success. I would recommend starting any time from May-July, but specifically May. 
 
@@ -24,7 +24,7 @@ Luckily for Louise this chart leaves little room for ambiguity and so we have a 
 
 When looking at Outcomes by Parent Category (below) the first thing you notice is that Theater has the most Kickstarters out of any category, with the next largest category, Music, being nearly 300 projects behind. What you'll also notice is that Theater has the highest number of failures, with Music actually having a higher ratio of successes per Kickstarter than Theater. Theater also has more failures than most categories have Kickstarters as a whole, although the ratio of successes to failures is still a positive one.
 
-#### Results
+__Results__
 
 I would recommend to Louise that we do more research on what makes a Theater play successful before committing to how her Kickstarter will be set up.
 
